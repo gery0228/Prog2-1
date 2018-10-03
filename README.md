@@ -15,3 +15,11 @@ Kódolás from Scratch: -Működik
          - C++:
          - C:
          - C#:
+         
+         
+3. hét
+
+-Forward: Megkezdve.
+-Esettan: Megkezdve.
+-BPMN: Megkezdve.
+-BPEL: Megkezdve.
